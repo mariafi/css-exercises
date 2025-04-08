@@ -2,3 +2,7 @@ p {
     background-color: rgb(227, 130, 167);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+
+.two {
+    font-size: 36px;
+}
